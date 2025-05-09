@@ -17,6 +17,7 @@ A property company aims to analyze the factors that influence house sale prices.
 5. GrLivArea: The living area is generally between 1,000–2,000 sqft, with some homes being very large.
 6. GarageArea: The distribution of garage area is nearly normal, with most homes having garages between 400–600 sqft.
 7. Log-10 Transformation: Successfully normalized the distribution of the variables SalePrice, GrLivArea, and GarageArea.
+
 **2D Visualization Insights**
 1. GrLivArea vs SalePrice: Strong positive relationship; larger homes tend to be more expensive.
 2. GarageArea vs SalePrice: Positive relationship, although more scattered and not as strong as GrLivArea.
